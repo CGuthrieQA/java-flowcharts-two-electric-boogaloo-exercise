@@ -2,11 +2,11 @@
 
 1. Recreate the following flowchart as a project.
 
-![chart1](001.png “chart1”)
+![flowchart](000.png "flowchart")
 
 2. Recreate the following flowchart as a project.
 
-![chart2](001.png “chart2”)
+![flowchart2](001.png "flowchart2")
 
 3. Create a method that can print out the numbers 1-10 10 times each.
 
